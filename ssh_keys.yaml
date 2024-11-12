@@ -1,4 +1,4 @@
 # An entry has to look like:
-# - team: 1
-#   name: "Bryan Sanchez"
-#   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJYYlxZIdwyykvM1uBTYunHM+iffDzfrek40IpNX5lUw acero@MSI"
+team: 1
+name: "Bryan Sanchez" 
+ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJYYlxZIdwyykvM1uBTYunHM+iffDzfrek40IpNX5lUw acero@MSI"
